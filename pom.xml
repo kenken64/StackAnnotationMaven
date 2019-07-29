@@ -43,6 +43,7 @@
         <version>2.1</version>
         <configuration>
           <outputDirectory>${basedir}/target/newsite</outputDirectory>
+          <testFailureIgnore>false</testFailureIgnore>
         </configuration>
       </plugin>
     </plugins>

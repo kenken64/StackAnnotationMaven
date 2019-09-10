@@ -10,7 +10,7 @@
 
   <name>StackAnnotationMaven</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://ec2-3-105-229-16.ap-southeast-2.compute.amazonaws.com/jenkins/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
